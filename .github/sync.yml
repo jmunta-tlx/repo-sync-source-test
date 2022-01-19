@@ -1,0 +1,11 @@
+jmunta-tlx/repo-sync-dest-test1@main:
+  - module1/
+  - module2/
+
+jmunta-tlx/repo-sync-dest-test2@main:
+  - module3/
+  - module4/
+
+jmunta-tlx/repo-sync-dest-test3@main:
+  - module1/
+  - module5/
